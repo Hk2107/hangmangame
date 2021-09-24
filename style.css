@@ -1,0 +1,82 @@
+/* color of buttons */
+.color{
+    background-color: #8e6555;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 6px;
+    width: 60px;
+}
+.color1{
+    width: 150px;
+    background-color: #8e6555;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 6px;
+}
+.color:hover{
+    background-color: rgb(231, 166, 136);
+    color: black;
+}
+.color1:hover{
+    background-color: rgb(231, 166, 136);
+    color: black;
+}
+/* cv form headings */
+.heading{
+    color:rgb(67, 68, 48);
+    /* color: white; */
+    font-size: 20px;
+    font-weight: 600;
+}
+.sm{
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* resume generator */
+h1.rg{
+    /* background-color:  rgb(132 106 87); */
+    position: relative;
+    background-color:rgb(146 128 114);
+    border-radius: 5px;
+    padding: 12px 12px;
+}
+#cv-template{
+    display: none;
+}
+
+/* image */
+.myimg{
+    /* border: 2px solid black; */
+    border-radius: 50%;
+    width: 300px;
+}
+/* cv-template */
+.background{
+    background-color: rgb(191 164 145);
+    
+}
+/* social media */
+#fbT,#igT,#lnT{
+    background-color:white;
+    width: 250px;
+    border-radius: 3px;
+    padding: 5px 5px;
+}
+
+
+/* print cv button */
+#print-cv{
+    background-color: #8e6555;
+    width: 90px;
+    padding: 6px 7px;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    color: white;
+}
+#print-cv:hover{
+    background-color: rgb(211, 187, 134);
+    color: black;
+   
+}
